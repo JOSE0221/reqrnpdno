@@ -1,0 +1,113 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "100.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "03",
+    "TotalGlobal": "03",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "03",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "SIN COLONIA DE REFERENCIA": 2
+    },
+    "Indeterminado": {
+      "SIN COLONIA DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "SIN COLONIA DE REFERENCIA": 1
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2020": 2
+    },
+    "Indeterminado": {
+      "2020": 0
+    },
+    "Mujer": {
+      "2020": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2020-MAYO": 0,
+      "2020-OCTUBRE": 2
+    },
+    "Indeterminado": {
+      "2020-MAYO": 0,
+      "2020-OCTUBRE": 0
+    },
+    "Mujer": {
+      "2020-MAYO": 1,
+      "2020-OCTUBRE": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "17": 0,
+      "31": 1,
+      "33": 1
+    },
+    "Indeterminado": {
+      "17": 0,
+      "31": 0,
+      "33": 0
+    },
+    "Mujeres": {
+      "17": 1,
+      "31": 0,
+      "33": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 2
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 1
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "8",
+    "id_municipio": "14",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

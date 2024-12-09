@@ -1,0 +1,191 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "56.25",
+    "PorcentajeLocalizados": "43.75",
+    "PorcentajeLocalizadosCV": "100.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "88.89",
+    "PorcentajeSoloNoLocalizados": "11.11",
+    "TotalDesaparecidos": "09",
+    "TotalGlobal": "16",
+    "TotalLocalizados": "07",
+    "TotalLocalizadosCV": "07",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "08",
+    "TotalSoloNoLocalizados": "01"
+  },
+  "espacial": {
+    "Hombres": {
+      "AHUAZOTEPEC": 3,
+      "BERISTAIN": 2,
+      "SIN COLONIA DE REFERENCIA": 6
+    },
+    "Indeterminado": {
+      "AHUAZOTEPEC": 0,
+      "BERISTAIN": 0,
+      "SIN COLONIA DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "AHUAZOTEPEC": 1,
+      "BERISTAIN": 0,
+      "SIN COLONIA DE REFERENCIA": 0
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 4,
+      "2017": 2,
+      "2019": 2,
+      "2021": 1,
+      "2022": 1,
+      "2023": 4
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2017": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 1,
+      "2017": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 4,
+      "2017-JULIO": 2,
+      "2019-ENERO": 1,
+      "2019-JULIO": 1,
+      "2021-SEPTIEMBRE": 1,
+      "2022-NOVIEMBRE": 1,
+      "2023-JULIO": 3,
+      "2023-MARZO": 1,
+      "2023-SEPTIEMBRE": 0
+    },
+    "Indeterminado": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 0,
+      "2017-JULIO": 0,
+      "2019-ENERO": 0,
+      "2019-JULIO": 0,
+      "2021-SEPTIEMBRE": 0,
+      "2022-NOVIEMBRE": 0,
+      "2023-JULIO": 0,
+      "2023-MARZO": 0,
+      "2023-SEPTIEMBRE": 0
+    },
+    "Mujer": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 1,
+      "2017-JULIO": 0,
+      "2019-ENERO": 0,
+      "2019-JULIO": 0,
+      "2021-SEPTIEMBRE": 0,
+      "2022-NOVIEMBRE": 0,
+      "2023-JULIO": 0,
+      "2023-MARZO": 0,
+      "2023-SEPTIEMBRE": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "11": 1,
+      "13": 0,
+      "15": 1,
+      "21": 1,
+      "25": 1,
+      "27": 1,
+      "29": 1,
+      "41": 1,
+      "43": 1,
+      "48": 1,
+      "6": 1,
+      "64": 1,
+      "66": 1,
+      "77": 1,
+      "8": 1
+    },
+    "Indeterminado": {
+      "11": 0,
+      "13": 0,
+      "15": 0,
+      "21": 0,
+      "25": 0,
+      "27": 0,
+      "29": 0,
+      "41": 0,
+      "43": 0,
+      "48": 0,
+      "6": 0,
+      "64": 0,
+      "66": 0,
+      "77": 0,
+      "8": 0
+    },
+    "Mujeres": {
+      "11": 0,
+      "13": 1,
+      "15": 0,
+      "21": 0,
+      "25": 0,
+      "27": 1,
+      "29": 0,
+      "41": 0,
+      "43": 0,
+      "48": 0,
+      "6": 0,
+      "64": 0,
+      "66": 0,
+      "77": 0,
+      "8": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 14
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 2
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "21",
+    "id_municipio": "8",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

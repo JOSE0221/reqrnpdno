@@ -1,0 +1,212 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "78.57",
+    "PorcentajeLocalizados": "21.43",
+    "PorcentajeLocalizadosCV": "100.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "100.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "11",
+    "TotalGlobal": "14",
+    "TotalLocalizados": "03",
+    "TotalLocalizadosCV": "03",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "11",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "22 DE FEBRERO": 1,
+      "HÉROES DE CHAPULTEPEC": 1,
+      "JUCHITAN CENTRO": 1,
+      "SIN COLONIA DE REFERENCIA": 6
+    },
+    "Indeterminado": {
+      "22 DE FEBRERO": 0,
+      "HÉROES DE CHAPULTEPEC": 0,
+      "JUCHITAN CENTRO": 0,
+      "SIN COLONIA DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "22 DE FEBRERO": 0,
+      "HÉROES DE CHAPULTEPEC": 0,
+      "JUCHITAN CENTRO": 1,
+      "SIN COLONIA DE REFERENCIA": 4
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "1978": 1,
+      "2000": 1,
+      "2009": 0,
+      "2014": 1,
+      "2019": 0,
+      "2021": 1,
+      "2022": 1,
+      "2023": 2,
+      "2024": 2
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "1978": 0,
+      "2000": 0,
+      "2009": 0,
+      "2014": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0,
+      "2024": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 1,
+      "1978": 0,
+      "2000": 0,
+      "2009": 1,
+      "2014": 0,
+      "2019": 1,
+      "2021": 0,
+      "2022": 0,
+      "2023": 1,
+      "2024": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 0,
+      "1978-JULIO": 1,
+      "2000-JULIO": 1,
+      "2009-NOVIEMBRE": 0,
+      "2014-AGOSTO": 1,
+      "2019-JULIO": 0,
+      "2021-AGOSTO": 1,
+      "2022-MAYO": 1,
+      "2023-NOVIEMBRE": 2,
+      "2024-ABRIL": 0,
+      "2024-FEBRERO": 2
+    },
+    "Indeterminado": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 0,
+      "1978-JULIO": 0,
+      "2000-JULIO": 0,
+      "2009-NOVIEMBRE": 0,
+      "2014-AGOSTO": 0,
+      "2019-JULIO": 0,
+      "2021-AGOSTO": 0,
+      "2022-MAYO": 0,
+      "2023-NOVIEMBRE": 0,
+      "2024-ABRIL": 0,
+      "2024-FEBRERO": 0
+    },
+    "Mujer": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 1,
+      "1978-JULIO": 0,
+      "2000-JULIO": 0,
+      "2009-NOVIEMBRE": 1,
+      "2014-AGOSTO": 0,
+      "2019-JULIO": 1,
+      "2021-AGOSTO": 0,
+      "2022-MAYO": 0,
+      "2023-NOVIEMBRE": 1,
+      "2024-ABRIL": 1,
+      "2024-FEBRERO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "16": 1,
+      "18": 0,
+      "22": 1,
+      "31": 0,
+      "35": 0,
+      "39": 0,
+      "43": 1,
+      "44": 1,
+      "50": 2,
+      "57": 1,
+      "SIN EDAD DE REFERENCIA": 2
+    },
+    "Indeterminado": {
+      "16": 0,
+      "18": 0,
+      "22": 0,
+      "31": 0,
+      "35": 0,
+      "39": 0,
+      "43": 0,
+      "44": 0,
+      "50": 0,
+      "57": 0,
+      "SIN EDAD DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "16": 0,
+      "18": 1,
+      "22": 0,
+      "31": 1,
+      "35": 1,
+      "39": 1,
+      "43": 0,
+      "44": 0,
+      "50": 0,
+      "57": 0,
+      "SIN EDAD DE REFERENCIA": 1
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "CUBANA": 2,
+      "MEXICANA": 4,
+      "NICARAGUENSE": 1,
+      "SALVADORENA": 1,
+      "SE DESCONOCE": 1
+    },
+    "Indeterminado": {
+      "CUBANA": 0,
+      "MEXICANA": 0,
+      "NICARAGUENSE": 0,
+      "SALVADORENA": 0,
+      "SE DESCONOCE": 0
+    },
+    "Mujeres": {
+      "CUBANA": 1,
+      "MEXICANA": 4,
+      "NICARAGUENSE": 0,
+      "SALVADORENA": 0,
+      "SE DESCONOCE": 0
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "20",
+    "id_municipio": "43",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

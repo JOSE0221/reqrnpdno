@@ -1,0 +1,131 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "0.00",
+    "PorcentajeLocalizados": "100.00",
+    "PorcentajeLocalizadosCV": "100.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "00",
+    "TotalGlobal": "04",
+    "TotalLocalizados": "04",
+    "TotalLocalizadosCV": "04",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "ATARJEA": 0,
+      "SIN COLONIA DE REFERENCIA": 2
+    },
+    "Indeterminado": {
+      "ATARJEA": 0,
+      "SIN COLONIA DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "ATARJEA": 1,
+      "SIN COLONIA DE REFERENCIA": 1
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2006": 1,
+      "2008": 1,
+      "2014": 0
+    },
+    "Indeterminado": {
+      "2006": 0,
+      "2008": 0,
+      "2014": 0
+    },
+    "Mujer": {
+      "2006": 0,
+      "2008": 1,
+      "2014": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2006-OCTUBRE": 1,
+      "2008-DICIEMBRE": 0,
+      "2008-OCTUBRE": 1,
+      "2014-JULIO": 0
+    },
+    "Indeterminado": {
+      "2006-OCTUBRE": 0,
+      "2008-DICIEMBRE": 0,
+      "2008-OCTUBRE": 0,
+      "2014-JULIO": 0
+    },
+    "Mujer": {
+      "2006-OCTUBRE": 0,
+      "2008-DICIEMBRE": 1,
+      "2008-OCTUBRE": 0,
+      "2014-JULIO": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "15": 0,
+      "39": 1,
+      "48": 1,
+      "84": 0
+    },
+    "Indeterminado": {
+      "15": 0,
+      "39": 0,
+      "48": 0,
+      "84": 0
+    },
+    "Mujeres": {
+      "15": 1,
+      "39": 0,
+      "48": 0,
+      "84": 1
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 2
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 2
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "11",
+    "id_municipio": "6",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

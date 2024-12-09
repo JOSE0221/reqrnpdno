@@ -1,0 +1,188 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "33.33",
+    "PorcentajeLocalizados": "66.67",
+    "PorcentajeLocalizadosCV": "90.00",
+    "PorcentajeLocalizadosSV": "10.00",
+    "PorcentajeSoloDesaparecidos": "80.00",
+    "PorcentajeSoloNoLocalizados": "20.00",
+    "TotalDesaparecidos": "05",
+    "TotalGlobal": "15",
+    "TotalLocalizados": "10",
+    "TotalLocalizadosCV": "09",
+    "TotalLocalizadosSV": "01",
+    "TotalSoloDesaparecidos": "04",
+    "TotalSoloNoLocalizados": "01"
+  },
+  "espacial": {
+    "Hombres": {
+      "AZTLA": 1,
+      "CHALMA": 0,
+      "COATEPEC": 1,
+      "SANTO DOMINGO AYOTLICHA": 2,
+      "SIN COLONIA DE REFERENCIA": 2,
+      "TEPAPAYECA": 1,
+      "TLAPANALA": 1
+    },
+    "Indeterminado": {
+      "AZTLA": 0,
+      "CHALMA": 0,
+      "COATEPEC": 0,
+      "SANTO DOMINGO AYOTLICHA": 0,
+      "SIN COLONIA DE REFERENCIA": 0,
+      "TEPAPAYECA": 0,
+      "TLAPANALA": 0
+    },
+    "Mujeres": {
+      "AZTLA": 0,
+      "CHALMA": 1,
+      "COATEPEC": 0,
+      "SANTO DOMINGO AYOTLICHA": 0,
+      "SIN COLONIA DE REFERENCIA": 3,
+      "TEPAPAYECA": 0,
+      "TLAPANALA": 3
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 4,
+      "2011": 0,
+      "2021": 1,
+      "2023": 2,
+      "2024": 1
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2011": 0,
+      "2021": 0,
+      "2023": 0,
+      "2024": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 2,
+      "2011": 1,
+      "2021": 0,
+      "2023": 0,
+      "2024": 4
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 4,
+      "2011-SEPTIEMBRE": 0,
+      "2021-DICIEMBRE": 1,
+      "2023-MAYO": 1,
+      "2023-NOVIEMBRE": 1,
+      "2024-ABRIL": 0,
+      "2024-ENERO": 1,
+      "2024-FEBRERO": 0,
+      "2024-MAYO": 0
+    },
+    "Indeterminado": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 0,
+      "2011-SEPTIEMBRE": 0,
+      "2021-DICIEMBRE": 0,
+      "2023-MAYO": 0,
+      "2023-NOVIEMBRE": 0,
+      "2024-ABRIL": 0,
+      "2024-ENERO": 0,
+      "2024-FEBRERO": 0,
+      "2024-MAYO": 0
+    },
+    "Mujer": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 2,
+      "2011-SEPTIEMBRE": 1,
+      "2021-DICIEMBRE": 0,
+      "2023-MAYO": 0,
+      "2023-NOVIEMBRE": 0,
+      "2024-ABRIL": 2,
+      "2024-ENERO": 0,
+      "2024-FEBRERO": 1,
+      "2024-MAYO": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "12": 0,
+      "16": 0,
+      "21": 0,
+      "22": 1,
+      "23": 2,
+      "30": 1,
+      "36": 0,
+      "37": 1,
+      "58": 1,
+      "63": 1,
+      "73": 1
+    },
+    "Indeterminado": {
+      "12": 0,
+      "16": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "30": 0,
+      "36": 0,
+      "37": 0,
+      "58": 0,
+      "63": 0,
+      "73": 0
+    },
+    "Mujeres": {
+      "12": 2,
+      "16": 2,
+      "21": 2,
+      "22": 0,
+      "23": 0,
+      "30": 0,
+      "36": 1,
+      "37": 0,
+      "58": 0,
+      "63": 0,
+      "73": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 8
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 7
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "21",
+    "id_municipio": "185",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

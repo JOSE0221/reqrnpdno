@@ -1,0 +1,203 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "23.08",
+    "PorcentajeLocalizados": "76.92",
+    "PorcentajeLocalizadosCV": "90.00",
+    "PorcentajeLocalizadosSV": "10.00",
+    "PorcentajeSoloDesaparecidos": "66.67",
+    "PorcentajeSoloNoLocalizados": "33.33",
+    "TotalDesaparecidos": "03",
+    "TotalGlobal": "13",
+    "TotalLocalizados": "10",
+    "TotalLocalizadosCV": "09",
+    "TotalLocalizadosSV": "01",
+    "TotalSoloDesaparecidos": "02",
+    "TotalSoloNoLocalizados": "01"
+  },
+  "espacial": {
+    "Hombres": {
+      "CARBONERAS": 1,
+      "LA ESTANZUELA": 0,
+      "MINERAL DEL CHICO": 1,
+      "SIN COLONIA DE REFERENCIA": 3
+    },
+    "Indeterminado": {
+      "CARBONERAS": 0,
+      "LA ESTANZUELA": 0,
+      "MINERAL DEL CHICO": 0,
+      "SIN COLONIA DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "CARBONERAS": 0,
+      "LA ESTANZUELA": 1,
+      "MINERAL DEL CHICO": 0,
+      "SIN COLONIA DE REFERENCIA": 7
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2011": 1,
+      "2012": 1,
+      "2013": 0,
+      "2014": 0,
+      "2015": 0,
+      "2018": 0,
+      "2019": 0,
+      "2020": 1,
+      "2021": 1,
+      "2024": 1
+    },
+    "Indeterminado": {
+      "2011": 0,
+      "2012": 0,
+      "2013": 0,
+      "2014": 0,
+      "2015": 0,
+      "2018": 0,
+      "2019": 0,
+      "2020": 0,
+      "2021": 0,
+      "2024": 0
+    },
+    "Mujer": {
+      "2011": 0,
+      "2012": 0,
+      "2013": 2,
+      "2014": 1,
+      "2015": 1,
+      "2018": 1,
+      "2019": 1,
+      "2020": 1,
+      "2021": 1,
+      "2024": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2011-NOVIEMBRE": 1,
+      "2012-ENERO": 1,
+      "2013-NOVIEMBRE": 0,
+      "2014-ENERO": 0,
+      "2015-ABRIL": 0,
+      "2018-JUNIO": 0,
+      "2019-SEPTIEMBRE": 0,
+      "2020-JULIO": 0,
+      "2020-MAYO": 1,
+      "2021-JUNIO": 1,
+      "2021-OCTUBRE": 0,
+      "2024-MAYO": 1
+    },
+    "Indeterminado": {
+      "2011-NOVIEMBRE": 0,
+      "2012-ENERO": 0,
+      "2013-NOVIEMBRE": 0,
+      "2014-ENERO": 0,
+      "2015-ABRIL": 0,
+      "2018-JUNIO": 0,
+      "2019-SEPTIEMBRE": 0,
+      "2020-JULIO": 0,
+      "2020-MAYO": 0,
+      "2021-JUNIO": 0,
+      "2021-OCTUBRE": 0,
+      "2024-MAYO": 0
+    },
+    "Mujer": {
+      "2011-NOVIEMBRE": 0,
+      "2012-ENERO": 0,
+      "2013-NOVIEMBRE": 2,
+      "2014-ENERO": 1,
+      "2015-ABRIL": 1,
+      "2018-JUNIO": 1,
+      "2019-SEPTIEMBRE": 1,
+      "2020-JULIO": 1,
+      "2020-MAYO": 0,
+      "2021-JUNIO": 0,
+      "2021-OCTUBRE": 1,
+      "2024-MAYO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "14": 0,
+      "15": 0,
+      "18": 0,
+      "19": 0,
+      "30": 1,
+      "33": 0,
+      "35": 1,
+      "37": 0,
+      "42": 1,
+      "53": 1,
+      "78": 1
+    },
+    "Indeterminado": {
+      "14": 0,
+      "15": 0,
+      "18": 0,
+      "19": 0,
+      "30": 0,
+      "33": 0,
+      "35": 0,
+      "37": 0,
+      "42": 0,
+      "53": 0,
+      "78": 0
+    },
+    "Mujeres": {
+      "14": 2,
+      "15": 2,
+      "18": 1,
+      "19": 1,
+      "30": 0,
+      "33": 1,
+      "35": 0,
+      "37": 1,
+      "42": 0,
+      "53": 0,
+      "78": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 5
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 8
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "13",
+    "id_municipio": "38",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "43.33",
+    "PorcentajeLocalizados": "56.67",
+    "PorcentajeLocalizadosCV": "82.35",
+    "PorcentajeLocalizadosSV": "17.65",
+    "PorcentajeSoloDesaparecidos": "100.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "13",
+    "TotalGlobal": "30",
+    "TotalLocalizados": "17",
+    "TotalLocalizadosCV": "14",
+    "TotalLocalizadosSV": "03",
+    "TotalSoloDesaparecidos": "13",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "HUANIMARO CENTRO": 1,
+      "JAROCHES": 1,
+      "LA LOBERA EL RIÑÓN": 0,
+      "MONTE BLANCO": 0,
+      "SAN JOSÉ DE AYALA": 0,
+      "SIN COLONIA DE REFERENCIA": 13
+    },
+    "Indeterminado": {
+      "HUANIMARO CENTRO": 0,
+      "JAROCHES": 0,
+      "LA LOBERA EL RIÑÓN": 0,
+      "MONTE BLANCO": 0,
+      "SAN JOSÉ DE AYALA": 0,
+      "SIN COLONIA DE REFERENCIA": 1
+    },
+    "Mujeres": {
+      "HUANIMARO CENTRO": 0,
+      "JAROCHES": 1,
+      "LA LOBERA EL RIÑÓN": 1,
+      "MONTE BLANCO": 3,
+      "SAN JOSÉ DE AYALA": 1,
+      "SIN COLONIA DE REFERENCIA": 8
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2007": 0,
+      "2013": 2,
+      "2014": 0,
+      "2015": 1,
+      "2017": 0,
+      "2018": 4,
+      "2019": 4,
+      "2020": 2,
+      "2023": 2
+    },
+    "Indeterminado": {
+      "2007": 0,
+      "2013": 0,
+      "2014": 0,
+      "2015": 0,
+      "2017": 0,
+      "2018": 0,
+      "2019": 1,
+      "2020": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "2007": 1,
+      "2013": 4,
+      "2014": 2,
+      "2015": 3,
+      "2017": 2,
+      "2018": 0,
+      "2019": 1,
+      "2020": 1,
+      "2023": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2018-DICIEMBRE": 1,
+      "2018-MAYO": 2,
+      "2018-OCTUBRE": 1,
+      "2019-DICIEMBRE": 0,
+      "2019-ENERO": 0,
+      "2019-FEBRERO": 1,
+      "2019-MAYO": 1,
+      "2019-NOVIEMBRE": 1,
+      "2019-OCTUBRE": 1,
+      "2020-JUNIO": 2,
+      "2023-FEBRERO": 1,
+      "2023-MARZO": 1
+    },
+    "Indeterminado": {
+      "2018-DICIEMBRE": 0,
+      "2018-MAYO": 0,
+      "2018-OCTUBRE": 0,
+      "2019-DICIEMBRE": 0,
+      "2019-ENERO": 1,
+      "2019-FEBRERO": 0,
+      "2019-MAYO": 0,
+      "2019-NOVIEMBRE": 0,
+      "2019-OCTUBRE": 0,
+      "2020-JUNIO": 0,
+      "2023-FEBRERO": 0,
+      "2023-MARZO": 0
+    },
+    "Mujer": {
+      "2018-DICIEMBRE": 0,
+      "2018-MAYO": 0,
+      "2018-OCTUBRE": 0,
+      "2019-DICIEMBRE": 1,
+      "2019-ENERO": 0,
+      "2019-FEBRERO": 0,
+      "2019-MAYO": 0,
+      "2019-NOVIEMBRE": 0,
+      "2019-OCTUBRE": 0,
+      "2020-JUNIO": 1,
+      "2023-FEBRERO": 0,
+      "2023-MARZO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "18": 0,
+      "21": 0,
+      "23": 1,
+      "24": 2,
+      "25": 0,
+      "28": 0,
+      "31": 0,
+      "33": 3,
+      "34": 1,
+      "40": 1,
+      "43": 1,
+      "45": 1,
+      "48": 1,
+      "55": 2,
+      "59": 0,
+      "60": 1,
+      "81": 1
+    },
+    "Indeterminado": {
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "18": 0,
+      "21": 1,
+      "23": 0,
+      "24": 0,
+      "25": 0,
+      "28": 0,
+      "31": 0,
+      "33": 0,
+      "34": 0,
+      "40": 0,
+      "43": 0,
+      "45": 0,
+      "48": 0,
+      "55": 0,
+      "59": 0,
+      "60": 0,
+      "81": 0
+    },
+    "Mujeres": {
+      "14": 1,
+      "15": 2,
+      "16": 4,
+      "18": 1,
+      "21": 0,
+      "23": 1,
+      "24": 0,
+      "25": 1,
+      "28": 1,
+      "31": 1,
+      "33": 0,
+      "34": 0,
+      "40": 1,
+      "43": 0,
+      "45": 0,
+      "48": 0,
+      "55": 0,
+      "59": 1,
+      "60": 0,
+      "81": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 11,
+      "SE DESCONOCE": 1,
+      "SIN NACIONALIDAD DE REFERENCIA": 3
+    },
+    "Indeterminado": {
+      "MEXICANA": 1,
+      "SE DESCONOCE": 0,
+      "SIN NACIONALIDAD DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 8,
+      "SE DESCONOCE": 0,
+      "SIN NACIONALIDAD DE REFERENCIA": 6
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "11",
+    "id_municipio": "16",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

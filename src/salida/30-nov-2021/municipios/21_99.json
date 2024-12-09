@@ -1,0 +1,191 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "23.53",
+    "PorcentajeLocalizados": "76.47",
+    "PorcentajeLocalizadosCV": "76.92",
+    "PorcentajeLocalizadosSV": "23.08",
+    "PorcentajeSoloDesaparecidos": "75.00",
+    "PorcentajeSoloNoLocalizados": "25.00",
+    "TotalDesaparecidos": "04",
+    "TotalGlobal": "17",
+    "TotalLocalizados": "13",
+    "TotalLocalizadosCV": "10",
+    "TotalLocalizadosSV": "03",
+    "TotalSoloDesaparecidos": "03",
+    "TotalSoloNoLocalizados": "01"
+  },
+  "espacial": {
+    "Hombres": {
+      "SAN ANTONIO SOLEDAD": 1,
+      "SAN JOSÉ IXTAPA": 0,
+      "SIN COLONIA DE REFERENCIA": 4,
+      "TEZOAPAN": 4,
+      "VILLA MORELOS CAÑADA": 1
+    },
+    "Indeterminado": {
+      "SAN ANTONIO SOLEDAD": 0,
+      "SAN JOSÉ IXTAPA": 0,
+      "SIN COLONIA DE REFERENCIA": 0,
+      "TEZOAPAN": 0,
+      "VILLA MORELOS CAÑADA": 0
+    },
+    "Mujeres": {
+      "SAN ANTONIO SOLEDAD": 2,
+      "SAN JOSÉ IXTAPA": 2,
+      "SIN COLONIA DE REFERENCIA": 1,
+      "TEZOAPAN": 0,
+      "VILLA MORELOS CAÑADA": 2
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 3,
+      "2015": 1,
+      "2020": 2,
+      "2021": 1,
+      "2023": 3
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2015": 0,
+      "2020": 0,
+      "2021": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 4,
+      "2015": 0,
+      "2020": 2,
+      "2021": 0,
+      "2023": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 3,
+      "2015-DICIEMBRE": 1,
+      "2020-JULIO": 1,
+      "2020-OCTUBRE": 1,
+      "2021-MAYO": 1,
+      "2023-JULIO": 0,
+      "2023-NOVIEMBRE": 1,
+      "2023-OCTUBRE": 2
+    },
+    "Indeterminado": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 0,
+      "2015-DICIEMBRE": 0,
+      "2020-JULIO": 0,
+      "2020-OCTUBRE": 0,
+      "2021-MAYO": 0,
+      "2023-JULIO": 0,
+      "2023-NOVIEMBRE": 0,
+      "2023-OCTUBRE": 0
+    },
+    "Mujer": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 4,
+      "2015-DICIEMBRE": 0,
+      "2020-JULIO": 0,
+      "2020-OCTUBRE": 2,
+      "2021-MAYO": 0,
+      "2023-JULIO": 1,
+      "2023-NOVIEMBRE": 0,
+      "2023-OCTUBRE": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "13": 0,
+      "14": 1,
+      "15": 0,
+      "21": 1,
+      "24": 1,
+      "25": 1,
+      "28": 1,
+      "29": 0,
+      "39": 1,
+      "40": 0,
+      "41": 0,
+      "47": 2,
+      "52": 0,
+      "54": 1,
+      "55": 1
+    },
+    "Indeterminado": {
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "21": 0,
+      "24": 0,
+      "25": 0,
+      "28": 0,
+      "29": 0,
+      "39": 0,
+      "40": 0,
+      "41": 0,
+      "47": 0,
+      "52": 0,
+      "54": 0,
+      "55": 0
+    },
+    "Mujeres": {
+      "13": 2,
+      "14": 0,
+      "15": 1,
+      "21": 0,
+      "24": 0,
+      "25": 0,
+      "28": 0,
+      "29": 1,
+      "39": 0,
+      "40": 1,
+      "41": 1,
+      "47": 0,
+      "52": 1,
+      "54": 0,
+      "55": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 10
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 7
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "21",
+    "id_municipio": "99",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

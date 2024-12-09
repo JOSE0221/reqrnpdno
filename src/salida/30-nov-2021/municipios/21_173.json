@@ -1,0 +1,170 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "23.08",
+    "PorcentajeLocalizados": "76.92",
+    "PorcentajeLocalizadosCV": "100.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "66.67",
+    "PorcentajeSoloNoLocalizados": "33.33",
+    "TotalDesaparecidos": "03",
+    "TotalGlobal": "13",
+    "TotalLocalizados": "10",
+    "TotalLocalizadosCV": "10",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "02",
+    "TotalSoloNoLocalizados": "01"
+  },
+  "espacial": {
+    "Hombres": {
+      "COACALCO": 1,
+      "SIN COLONIA DE REFERENCIA": 5,
+      "TETELES DE AVILA CASTILLO": 1,
+      "ZITALAPAN": 0
+    },
+    "Indeterminado": {
+      "COACALCO": 0,
+      "SIN COLONIA DE REFERENCIA": 0,
+      "TETELES DE AVILA CASTILLO": 0,
+      "ZITALAPAN": 0
+    },
+    "Mujeres": {
+      "COACALCO": 0,
+      "SIN COLONIA DE REFERENCIA": 2,
+      "TETELES DE AVILA CASTILLO": 2,
+      "ZITALAPAN": 2
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 4,
+      "2014": 1,
+      "2020": 0,
+      "2023": 1,
+      "2024": 1
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2014": 0,
+      "2020": 0,
+      "2023": 0,
+      "2024": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 4,
+      "2014": 0,
+      "2020": 1,
+      "2023": 0,
+      "2024": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 4,
+      "2014-MARZO": 1,
+      "2020-FEBRERO": 0,
+      "2023-ABRIL": 1,
+      "2024-FEBRERO": 1
+    },
+    "Indeterminado": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 0,
+      "2014-MARZO": 0,
+      "2020-FEBRERO": 0,
+      "2023-ABRIL": 0,
+      "2024-FEBRERO": 0
+    },
+    "Mujer": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 4,
+      "2014-MARZO": 0,
+      "2020-FEBRERO": 1,
+      "2023-ABRIL": 0,
+      "2024-FEBRERO": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "12": 1,
+      "14": 0,
+      "16": 0,
+      "17": 0,
+      "20": 1,
+      "21": 1,
+      "33": 0,
+      "56": 1,
+      "6": 0,
+      "76": 1,
+      "8": 1,
+      "9": 1
+    },
+    "Indeterminado": {
+      "12": 0,
+      "14": 0,
+      "16": 0,
+      "17": 0,
+      "20": 0,
+      "21": 0,
+      "33": 0,
+      "56": 0,
+      "6": 0,
+      "76": 0,
+      "8": 0,
+      "9": 0
+    },
+    "Mujeres": {
+      "12": 0,
+      "14": 1,
+      "16": 2,
+      "17": 1,
+      "20": 0,
+      "21": 0,
+      "33": 1,
+      "56": 0,
+      "6": 1,
+      "76": 0,
+      "8": 0,
+      "9": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 7
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 6
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "21",
+    "id_municipio": "173",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

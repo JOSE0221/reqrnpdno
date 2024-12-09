@@ -1,0 +1,176 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "60.00",
+    "PorcentajeLocalizados": "40.00",
+    "PorcentajeLocalizadosCV": "100.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "100.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "06",
+    "TotalGlobal": "10",
+    "TotalLocalizados": "04",
+    "TotalLocalizadosCV": "04",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "06",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "SANTA MARIA": 0,
+      "SIN COLONIA DE REFERENCIA": 5
+    },
+    "Indeterminado": {
+      "SANTA MARIA": 0,
+      "SIN COLONIA DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "SANTA MARIA": 1,
+      "SIN COLONIA DE REFERENCIA": 4
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1998": 0,
+      "2008": 0,
+      "2011": 2,
+      "2017": 1,
+      "2018": 1,
+      "2019": 1,
+      "2022": 0
+    },
+    "Indeterminado": {
+      "1998": 0,
+      "2008": 0,
+      "2011": 0,
+      "2017": 0,
+      "2018": 0,
+      "2019": 0,
+      "2022": 0
+    },
+    "Mujer": {
+      "1998": 1,
+      "2008": 2,
+      "2011": 0,
+      "2017": 1,
+      "2018": 0,
+      "2019": 0,
+      "2022": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "1998-JULIO": 0,
+      "2008-JULIO": 0,
+      "2008-JUNIO": 0,
+      "2011-ENERO": 2,
+      "2017-MAYO": 1,
+      "2017-OCTUBRE": 0,
+      "2018-MAYO": 1,
+      "2019-FEBRERO": 1,
+      "2022-AGOSTO": 0
+    },
+    "Indeterminado": {
+      "1998-JULIO": 0,
+      "2008-JULIO": 0,
+      "2008-JUNIO": 0,
+      "2011-ENERO": 0,
+      "2017-MAYO": 0,
+      "2017-OCTUBRE": 0,
+      "2018-MAYO": 0,
+      "2019-FEBRERO": 0,
+      "2022-AGOSTO": 0
+    },
+    "Mujer": {
+      "1998-JULIO": 1,
+      "2008-JULIO": 1,
+      "2008-JUNIO": 1,
+      "2011-ENERO": 0,
+      "2017-MAYO": 0,
+      "2017-OCTUBRE": 1,
+      "2018-MAYO": 0,
+      "2019-FEBRERO": 0,
+      "2022-AGOSTO": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "10": 0,
+      "14": 0,
+      "2": 1,
+      "20": 0,
+      "27": 1,
+      "31": 1,
+      "36": 1,
+      "41": 1,
+      "51": 0,
+      "52": 0
+    },
+    "Indeterminado": {
+      "10": 0,
+      "14": 0,
+      "2": 0,
+      "20": 0,
+      "27": 0,
+      "31": 0,
+      "36": 0,
+      "41": 0,
+      "51": 0,
+      "52": 0
+    },
+    "Mujeres": {
+      "10": 1,
+      "14": 1,
+      "2": 0,
+      "20": 1,
+      "27": 0,
+      "31": 0,
+      "36": 0,
+      "41": 0,
+      "51": 1,
+      "52": 1
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 5
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 5
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "20",
+    "id_municipio": "515",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

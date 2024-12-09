@@ -1,0 +1,212 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "9.09",
+    "PorcentajeLocalizados": "90.91",
+    "PorcentajeLocalizadosCV": "93.33",
+    "PorcentajeLocalizadosSV": "6.67",
+    "PorcentajeSoloDesaparecidos": "100.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "03",
+    "TotalGlobal": "33",
+    "TotalLocalizados": "30",
+    "TotalLocalizadosCV": "28",
+    "TotalLocalizadosSV": "02",
+    "TotalSoloDesaparecidos": "03",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "CUAUHTÉMOC": 1,
+      "EL PEDREGAL": 1,
+      "NUEVA ROSITA": 0,
+      "PEJELAGARTO": 1,
+      "SAN ISIDRO": 0,
+      "SIN COLONIA DE REFERENCIA": 11
+    },
+    "Indeterminado": {
+      "CUAUHTÉMOC": 0,
+      "EL PEDREGAL": 0,
+      "NUEVA ROSITA": 0,
+      "PEJELAGARTO": 0,
+      "SAN ISIDRO": 0,
+      "SIN COLONIA DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "CUAUHTÉMOC": 1,
+      "EL PEDREGAL": 0,
+      "NUEVA ROSITA": 1,
+      "PEJELAGARTO": 0,
+      "SAN ISIDRO": 2,
+      "SIN COLONIA DE REFERENCIA": 15
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2013": 1,
+      "2014": 2,
+      "2015": 0,
+      "2021": 1,
+      "2022": 2,
+      "2023": 8
+    },
+    "Indeterminado": {
+      "2013": 0,
+      "2014": 0,
+      "2015": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "2013": 2,
+      "2014": 8,
+      "2015": 1,
+      "2021": 1,
+      "2022": 4,
+      "2023": 3
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2021-NOVIEMBRE": 0,
+      "2022-DICIEMBRE": 0,
+      "2022-JULIO": 1,
+      "2022-JUNIO": 1,
+      "2022-MARZO": 0,
+      "2023-ABRIL": 2,
+      "2023-AGOSTO": 1,
+      "2023-ENERO": 1,
+      "2023-JUNIO": 1,
+      "2023-MARZO": 1,
+      "2023-MAYO": 2,
+      "2023-SEPTIEMBRE": 0
+    },
+    "Indeterminado": {
+      "2021-NOVIEMBRE": 0,
+      "2022-DICIEMBRE": 0,
+      "2022-JULIO": 0,
+      "2022-JUNIO": 0,
+      "2022-MARZO": 0,
+      "2023-ABRIL": 0,
+      "2023-AGOSTO": 0,
+      "2023-ENERO": 0,
+      "2023-JUNIO": 0,
+      "2023-MARZO": 0,
+      "2023-MAYO": 0,
+      "2023-SEPTIEMBRE": 0
+    },
+    "Mujer": {
+      "2021-NOVIEMBRE": 1,
+      "2022-DICIEMBRE": 1,
+      "2022-JULIO": 0,
+      "2022-JUNIO": 2,
+      "2022-MARZO": 1,
+      "2023-ABRIL": 0,
+      "2023-AGOSTO": 1,
+      "2023-ENERO": 0,
+      "2023-JUNIO": 0,
+      "2023-MARZO": 1,
+      "2023-MAYO": 0,
+      "2023-SEPTIEMBRE": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 2,
+      "23": 0,
+      "25": 0,
+      "26": 1,
+      "34": 0,
+      "37": 1,
+      "44": 1,
+      "47": 1,
+      "5": 1,
+      "6": 0,
+      "80": 1,
+      "SIN EDAD DE REFERENCIA": 6
+    },
+    "Indeterminado": {
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "23": 0,
+      "25": 0,
+      "26": 0,
+      "34": 0,
+      "37": 0,
+      "44": 0,
+      "47": 0,
+      "5": 0,
+      "6": 0,
+      "80": 0,
+      "SIN EDAD DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "12": 1,
+      "13": 1,
+      "14": 4,
+      "15": 1,
+      "16": 4,
+      "23": 1,
+      "25": 1,
+      "26": 0,
+      "34": 1,
+      "37": 0,
+      "44": 0,
+      "47": 0,
+      "5": 0,
+      "6": 1,
+      "80": 0,
+      "SIN EDAD DE REFERENCIA": 4
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 14
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 19
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "4",
+    "id_municipio": "11",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

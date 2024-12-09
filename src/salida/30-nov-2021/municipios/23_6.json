@@ -1,0 +1,194 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "52.94",
+    "PorcentajeLocalizados": "47.06",
+    "PorcentajeLocalizadosCV": "75.00",
+    "PorcentajeLocalizadosSV": "25.00",
+    "PorcentajeSoloDesaparecidos": "88.89",
+    "PorcentajeSoloNoLocalizados": "11.11",
+    "TotalDesaparecidos": "09",
+    "TotalGlobal": "17",
+    "TotalLocalizados": "08",
+    "TotalLocalizadosCV": "06",
+    "TotalLocalizadosSV": "02",
+    "TotalSoloDesaparecidos": "08",
+    "TotalSoloNoLocalizados": "01"
+  },
+  "espacial": {
+    "Hombres": {
+      "SABAN": 1,
+      "SIN COLONIA DE REFERENCIA": 7,
+      "VICENTE GUERRERO": 1
+    },
+    "Indeterminado": {
+      "SABAN": 0,
+      "SIN COLONIA DE REFERENCIA": 0,
+      "VICENTE GUERRERO": 0
+    },
+    "Mujeres": {
+      "SABAN": 0,
+      "SIN COLONIA DE REFERENCIA": 8,
+      "VICENTE GUERRERO": 0
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2017": 1,
+      "2018": 0,
+      "2019": 2,
+      "2022": 3,
+      "2023": 3
+    },
+    "Indeterminado": {
+      "2017": 0,
+      "2018": 0,
+      "2019": 0,
+      "2022": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "2017": 4,
+      "2018": 1,
+      "2019": 1,
+      "2022": 1,
+      "2023": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2017-ABRIL": 0,
+      "2017-AGOSTO": 0,
+      "2017-OCTUBRE": 0,
+      "2018-FEBRERO": 0,
+      "2019-JULIO": 0,
+      "2019-MARZO": 2,
+      "2022-DICIEMBRE": 1,
+      "2022-FEBRERO": 1,
+      "2022-JULIO": 0,
+      "2022-NOVIEMBRE": 1,
+      "2023-AGOSTO": 0,
+      "2023-ENERO": 3
+    },
+    "Indeterminado": {
+      "2017-ABRIL": 0,
+      "2017-AGOSTO": 0,
+      "2017-OCTUBRE": 0,
+      "2018-FEBRERO": 0,
+      "2019-JULIO": 0,
+      "2019-MARZO": 0,
+      "2022-DICIEMBRE": 0,
+      "2022-FEBRERO": 0,
+      "2022-JULIO": 0,
+      "2022-NOVIEMBRE": 0,
+      "2023-AGOSTO": 0,
+      "2023-ENERO": 0
+    },
+    "Mujer": {
+      "2017-ABRIL": 2,
+      "2017-AGOSTO": 1,
+      "2017-OCTUBRE": 1,
+      "2018-FEBRERO": 1,
+      "2019-JULIO": 1,
+      "2019-MARZO": 0,
+      "2022-DICIEMBRE": 0,
+      "2022-FEBRERO": 0,
+      "2022-JULIO": 1,
+      "2022-NOVIEMBRE": 0,
+      "2023-AGOSTO": 1,
+      "2023-ENERO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "12": 0,
+      "14": 1,
+      "15": 1,
+      "17": 0,
+      "23": 1,
+      "25": 1,
+      "26": 1,
+      "27": 1,
+      "32": 0,
+      "37": 1,
+      "38": 1,
+      "4": 0,
+      "55": 1
+    },
+    "Indeterminado": {
+      "12": 0,
+      "14": 0,
+      "15": 0,
+      "17": 0,
+      "23": 0,
+      "25": 0,
+      "26": 0,
+      "27": 0,
+      "32": 0,
+      "37": 0,
+      "38": 0,
+      "4": 0,
+      "55": 0
+    },
+    "Mujeres": {
+      "12": 1,
+      "14": 2,
+      "15": 1,
+      "17": 1,
+      "23": 0,
+      "25": 1,
+      "26": 0,
+      "27": 0,
+      "32": 1,
+      "37": 0,
+      "38": 0,
+      "4": 1,
+      "55": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "COLOMBIANA": 1,
+      "MEXICANA": 8
+    },
+    "Indeterminado": {
+      "COLOMBIANA": 0,
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "COLOMBIANA": 0,
+      "MEXICANA": 8
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "23",
+    "id_municipio": "6",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "",
+    "edad_fin": "",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}
